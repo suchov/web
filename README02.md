@@ -14,11 +14,11 @@ Welcome to the test task 2 (HTML and CSS basics + JS basics)
 
 #### Practical tasks:
 
-1. Get a new account on [Freecodecamp](https://www.freecodecamp.com/) if haven't one yet.
+1. Get a new account on [Freecodecamp](https://www.freecodecamp.com/) if you don't have one yet.
 2. Complete all [Intermediate Algorithm Scripting](https://www.freecodecamp.com/map-aside#nested-collapseIntermediateAlgorithmScripting) tasks from Front End Development Certification.
 3. Complete [Pomodoro Clock challenge] (https://www.freecodecamp.com/challenges/build-a-pomodoro-clock) from Advanced Front End Development Projects using [Codepen.io](http://codepen.io/).
 
-*If you feel not confident completing these tasks, you may go through entire or between some parts of Freecodecamp training map*
+*If you don't feel confident completing these tasks, you may go through entire or some parts of Freecodecamp training map*
 
 **After the job will be done, in your "kottans_web_test" repository create a folder "task_2" with README.md file. In this file add a direct link to your Freecodecamp account with completed challenges mentioned above.**
 
