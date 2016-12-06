@@ -20,7 +20,7 @@ Welcome to the test task 2 (HTML and CSS basics + JS basics)
 
 ## Create a custom client for Trivia Quiz API: http://jservice.io/
 
-#### Your simple app, should contain:
+#### Your simple app should contain:
 
 1. Simple headers with total questions counter, correct answers score, text of the question, question ID and category.
 2. Game field with answer container and letter container.
@@ -47,6 +47,8 @@ Welcome to the test task 2 (HTML and CSS basics + JS basics)
 
 ##### FEEL FREE CUSTOMIZE YOUR APP AND EXTEND ITS FUNCTIONALITY
 
+##### You can use any frameworks or libraries you want or don't use them at all.
+
 ##### Suggested literature:
 
 http://www.w3schools.com/xml/ajax_intro.asp
@@ -58,7 +60,9 @@ http://www.w3schools.com/html/html5_draganddrop.asp
 
 *If you don't feel confident completing these tasks, you may go through entire or some parts of Freecodecamp training map*
 
-**After the job will be done, in your "kottans_web_test" repository create a folder "task_2" with README.md file. In this file add a direct link to your Freecodecamp account with completed challenges mentioned above. Also deploy your Trivia app [gh-pages](http://blog.teamtreehouse.com/using-github-pages-to-host-your-website) (Simply create gh-pages brunch on remote if your app doesn't need any building stuff) and put a link in your README.md file**
+**After the job will be done, in your "kottans_web_test" repository create a folder "task_2" with README.md file. In this file add a direct link to your Freecodecamp account with completed challenges mentioned above. Also deploy your Trivia app via [gh-pages](http://blog.teamtreehouse.com/using-github-pages-to-host-your-website) (Simply create gh-pages brunch on remote if your app doesn't need any building stuff) and put a link in your README.md file**
+
+## Good luck, folks!
 
 
 When you finish this task you can start the next one:
